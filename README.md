@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - My Solution URL: [https://www.frontendmentor.io/solutions/responsive-layout-using-html-and-css-5lZGRZ13U](https://www.frontendmentor.io/solutions/responsive-layout-using-html-and-css-5lZGRZ13U)
-- Live Site URL: [https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- Live Site URL: [https://coral2742.github.io/Responsive-Layout-using-HTML-and-CSS/](https://coral2742.github.io/Responsive-Layout-using-HTML-and-CSS/)
 
 ## My process
 
